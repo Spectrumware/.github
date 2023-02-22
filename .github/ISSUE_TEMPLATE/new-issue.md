@@ -8,12 +8,11 @@ assignees: ''
 <!--- Double-click underscored lines or words to replace --->
 
 ## Description
-**Request:** ____ would like us to ____ so that ____
+**Request:** The ____ would like us to ____ so that ____
 
 #### Notes:
 - __
 
 ## To Do / Deliverables
 **Required tasks for completion:**
-- [ ] ____
 - [ ] ____
