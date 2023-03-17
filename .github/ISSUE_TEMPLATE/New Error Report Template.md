@@ -11,14 +11,13 @@ assignees: ''
 **Source URL:** ___
 **Steps to Reproduce:** ___
 ***Expectations vs. Results:**
-___
-___
+__
+__
 
-<details>
+<details open=true>
 <summary>Visual Proof</summary>
-
-<!-- Enter Image Here -->
+  <!-- Enter Image Here -->
 </details>
 
 #### Additional Details:
-- ____
+- __
